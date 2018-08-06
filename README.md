@@ -22,6 +22,7 @@ Para o exercício você pode utilizar objetos mock e o HttpModule para simular d
 * Home, após está autenticado com a listagem de clientes;
 * Busca de clientes pelo nome;
 * Visualizar o cliente;
+* Editar o cliente;
 
 ## Recomendações
 
