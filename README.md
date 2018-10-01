@@ -3,7 +3,7 @@ Teste Frontend Angular
 
 ## Requisitos de tecnologia
 
-Usar versão 6.1 do Angular com Typescript. O design precisa seguir as diretrizes do Material Design.
+Usar versão 6+ do Angular com Typescript. O design precisa seguir as diretrizes do Material Design.
 
 ## Exercício
 
@@ -15,10 +15,10 @@ O cliente deve possuir os seguintes dados:
 * E-mail;
 * Telefone;
 
-Para o exercício você pode utilizar objetos mock e o HttpModule para simular dados reais vindos do servidor. Com isto, você terá os seguinte requisitos:
+Para o exercício você pode utilizar **objetos mock** e o **HttpModule** para simular dados reais vindos do servidor. Com isto, você terá os seguinte requisitos:
 
-* Login;
-    * Formulário com validações;
+* Login - Autenticação simples;
+    * Formulário de autenticação com validações;
 * Home, após está autenticado com a listagem de clientes;
 * Busca de clientes pelo nome;
 * Visualizar o cliente;
